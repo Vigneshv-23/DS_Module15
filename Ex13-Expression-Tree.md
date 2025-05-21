@@ -18,8 +18,8 @@ To write a C function to construct an Expression Tree for the given Postfix Expr
 ```
 */
 Program to construct an Expression Tree for the given Postfix Expression and display the output in the format of In-order ,Pre-order and Post-order traversal.
-Developed by: SANJAY S
-RegisterNumber: 212222230132
+Developed by: VIGNESH V
+RegisterNumber: 212223110062
 */
 struct n { 
 char d; 
